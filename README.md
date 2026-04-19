@@ -19,12 +19,14 @@ Register and login (JWT authentication)
 Browse books with search & filters
 View book details
 Add to cart and checkout
-View order history
+View order 
+
 🛠️ Admin Features
 Add, update, delete books
 Manage orders
 Update order status
 Access admin dashboard
+
 🧱 Tech Stack
 Frontend
 React
@@ -37,6 +39,7 @@ Node.js
 Express.js
 Database
 MongoDB (Mongoose)
+
 Authentication & Security
 JWT (JSON Web Tokens)
 bcrypt (password hashing)
